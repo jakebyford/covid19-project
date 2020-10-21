@@ -42,18 +42,18 @@ Clone the project to local computer/device
 # Step 4: Execute programs in this order
 List notebooks
 
-*CensusData
-*Deaths By Age
+* CensusData
+* Deaths By Age
 ![](Images/Percent_Death_US_Age_Group.png)
-*CasesAndDeaths
-*Cases_PD
-*Cases_PopDensity
-*CasesVsWealth
-*AllByState
-*IncomePopByState
-*Deaths_Median_Income_Scatter
-*Deaths_Per_Cap_Scatter
-*top_5_per_cap_deaths
+* CasesAndDeaths
+* Cases_PD
+* Cases_PopDensity
+* CasesVsWealth
+* AllByState
+* IncomePopByState
+* Deaths_Median_Income_Scatter
+* Deaths_Per_Cap_Scatter
+* top_5_per_cap_deaths
 
 # ETL Documentation
 This file shows how we extracted, transformed, and loaded our data sources for plotting:
