@@ -29,6 +29,9 @@ $ pip install numpy
 ```bash
 $ pip install pprint
 ```
+
+![](Images/Percent_Death_US_Age_Group.png)
+
 ```bash
 $ pip install scipy
 
