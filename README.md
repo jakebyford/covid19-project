@@ -29,9 +29,6 @@ $ pip install numpy
 ```bash
 $ pip install pprint
 ```
-
-![](Images/Percent_Death_US_Age_Group.png)
-
 ```bash
 $ pip install scipy
 
@@ -46,6 +43,7 @@ List notebooks
 
 CensusData
 Deaths By Age
+![](Images/Percent_Death_US_Age_Group.png)
 CasesAndDeaths
 Cases_PD
 Cases_PopDensity
