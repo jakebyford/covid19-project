@@ -48,12 +48,14 @@ List notebooks
 * CasesAndDeaths
 * Cases_PD
 * Cases_PopDensity
-* CasesVsWealth
+* CasesVsWealth\
+![](Images/NewCases-v-Time.png)
 * AllByState
 * IncomePopByState
 * Deaths_Median_Income_Scatter
 * Deaths_Per_Cap_Scatter
-* top_5_per_cap_deaths
+* top_5_per_cap_deaths\
+![](Images/Cases-PCI-v-State.png)
 
 # ETL Documentation
 This file shows how we extracted, transformed, and loaded our data sources for plotting:
