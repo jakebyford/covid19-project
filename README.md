@@ -43,7 +43,7 @@ Clone the project to local computer/device
 List notebooks
 
 * CensusData
-* Deaths By Age
+* Deaths By Age\
 ![](Images/Percent_Death_US_Age_Group.png)
 * CasesAndDeaths
 * Cases_PD
