@@ -2,7 +2,7 @@
 This folder is for outputting any images, like plots, that our python scripts generate.
 
 * Average Cases vs. Average Population Density
-![](Images/Avg. Population Density vs. Avg.Cases per State.png)
+![](Images/AVG_CASES_VS_AVG_POP_DEN.png)
 * Deaths By Age\
 ![](Images/Percent_Death_US_Age_Group.png)
 * CasesAndDeaths
